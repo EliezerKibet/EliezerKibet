@@ -4,7 +4,7 @@
 
 
 [instagram]: https://www.instagram.com/kibeet_qc/
-[linkedin]: https://linkedin.com/in/eliezer-kibet
+[linkedin]: https://www.linkedin.com/in/eliezer-kibet-80217a301/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
