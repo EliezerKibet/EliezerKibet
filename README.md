@@ -1,10 +1,10 @@
-<h1>Hi, I'm Eli! <br/><a href="https://github.com/EliezerKibet">Programmer</a>, <a href="https://www.linkedin.com/in/EliezerKIbet/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Eli! <br/><a href="https://github.com/EliezerKibet">Programmer</a>, <a href="https://www.linkedin.com/in/EliezerKIbet/">Artificial Intelligence Professional</a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/kibeet_qc/
+[linkedin]: https://linkedin.com/in/EliezerKibet
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
