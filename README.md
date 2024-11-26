@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eli! <br/><a href="https://github.com/EliezerKibet">Programmer</a>, <a href="https://www.linkedin.com/in/EliezerKIbet/">Artificial Intelligence Professional</a></h1>
+<h1>Hi, I'm Eli! <br/><a href="https://github.com/EliezerKibet">Programmer</a>, <a href="https://www.linkedin.com/in/eliezer-kibet-80217a301/">Artificial Intelligence Professional</a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
