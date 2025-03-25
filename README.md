@@ -11,7 +11,7 @@
   [View on GitHub](https://github.com/EliezerKibet/AI_based_garage/blob/main/README.md)  
 
 - **Java Task Management App:**  
-  [Read the Report](#) *(Link to be updated soon)*  
+  [View on GitHub](https://github.com/EliezerKibet/TaskManager/blob/main/README.md)
 
 ---
 
