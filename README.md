@@ -1,7 +1,11 @@
-<h1>Hi, I'm Eliezer Kibet Rotich <br/><a href="https://github.com/EliezerKibet">Programmer</a>, <a href="https://www.linkedin.com/in/eliezer-kibet-80217a301/">Artificial Intelligence Professional Prospect with interest in C# and Mobile Web development</a></h1>
+<h1>Hi, I'm Eliezer Kibet<br/>
+<a href="https://github.com/EliezerKibet">Programmer</a>, 
+<a href="https://www.linkedin.com/in/eliezer-kibet-80217a301/">Artificial Intelligence</a></h1>
 
-<h2>👨‍💻Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
+-  Garage Management System with chatbot AI integration: [Read the Report](#) *(Link to be updated soon)*
+-  Java Task Management App: [Read the Report](#) *(Link to be updated soon)*
 
 [instagram]: https://www.instagram.com/kibeet_qc/
 [linkedin]: https://www.linkedin.com/in/eliezer-kibet-80217a301/
