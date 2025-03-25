@@ -1,14 +1,24 @@
-<h1>Hi, I'm Eliezer Kibet<br/>
-<a href="https://github.com/EliezerKibet">Programmer</a>, 
-<a href="https://www.linkedin.com/in/eliezer-kibet-80217a301/">Artificial Intelligence</a></h1>
+<h1>Hi, I'm Eliezer Kibet</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<p>
+   <a href="https://github.com/EliezerKibet"><b>Programmer</b></a>,  
+   <a href="https://www.linkedin.com/in/eliezer-kibet-80217a301/"><b>Artificial Intelligence Enthusiast</b></a>
+</p>
 
--  Garage Management System with chatbot AI integration: (https://github.com/EliezerKibet/AI_based_garage/blob/main/README.md)
--  Java Task Management App: [Read the Report](#) *(Link to be updated soon)*
+## 👨‍💻 Projects
 
-[instagram]: https://www.instagram.com/kibeet_qc/
-[linkedin]: https://www.linkedin.com/in/eliezer-kibet-80217a301/
+- **Garage Management System with Chatbot AI Integration:**  
+  [View on GitHub](https://github.com/EliezerKibet/AI_based_garage/blob/main/README.md)  
+
+- **Java Task Management App:**  
+  [Read the Report](#) *(Link to be updated soon)*  
+
+---
+
+### 🔗 Social Links
+
+- [Instagram](https://www.instagram.com/kibeet_qc/)  
+- [LinkedIn](https://www.linkedin.com/in/eliezer-kibet-80217a301/)  
 
 <!--
 ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
