@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
--  Garage Management System with chatbot AI integration: [Read the Report](#) *(Link to be updated soon)*
+-  Garage Management System with chatbot AI integration: README.md
 -  Java Task Management App: [Read the Report](#) *(Link to be updated soon)*
 
 [instagram]: https://www.instagram.com/kibeet_qc/
