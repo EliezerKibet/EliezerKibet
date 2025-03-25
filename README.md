@@ -3,7 +3,7 @@
 
 Passionate about **building web applications** and **AI-driven solutions**.  
 Skilled in **JavaScript, C#, and SQL**.  
-Open to **collaborations on open-source projects** and internship opportunities.  
+Open to **collaborations on open-source projects**.
 
 ## 🚀 Tech Stack  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
