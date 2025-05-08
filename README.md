@@ -24,7 +24,7 @@ A full-stack e-commerce solution with product management, shopping cart, and Str
 **Tech Stack:** React/Next.js, ASP.NET Core, SQL Server, Stripe API
 
 🔹 **[Garage API](https://github.com/EliezerKibet/Garage-API/blob/main/README.md)**  
-A comprehensive RESTful API for automotive service centers with JWT authentication and Swagger documentation.  
+A comprehensive restful API for automotive service centers with JWT authentication and Swagger documentation.  
 **Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, JWT 
 
 ---
