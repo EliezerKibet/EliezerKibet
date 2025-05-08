@@ -19,7 +19,7 @@ Open to **collaborations on open-source projects**.
 A full-stack system for managing car repairs, integrated with an AI chatbot for customer support.  
 **Tech Stack:** C#, ASP.NET, SQL Server  
 
-🔹 **[Java Task Management App](https://github.com/EliezerKibet/TaskManager/blob/main/README.md)**  
+🔹 **[Garage API](https://github.com/EliezerKibet/TaskManager/blob/main/README.md)**  
 A simple Java-based app for task tracking and scheduling.  
 **Tech Stack:** Java, Firebase  
 
