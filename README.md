@@ -20,8 +20,8 @@ A full-stack system for managing car repairs, integrated with an AI chatbot for 
 **Tech Stack:** C#, ASP.NET, SQL Server  
 
 🔹 **[Garage API](https://github.com/EliezerKibet/Garage-API/blob/main/README.md)**  
-A simple Java-based app for task tracking and scheduling.  
-**Tech Stack:** Java, Firebase  
+A comprehensive RESTful API for automotive service centers with JWT authentication and Swagger documentation.  
+**Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, JWT 
 
 ---
 
