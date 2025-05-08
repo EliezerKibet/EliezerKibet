@@ -19,6 +19,10 @@ Open to **collaborations on open-source projects**.
 A full-stack system for managing car repairs, integrated with an AI chatbot for customer support.  
 **Tech Stack:** C#, ASP.NET, SQL Server  
 
+🔹 **[E-Commerce Platform](https://github.com/EliezerKibet/ECommerce-Platform)**  
+A full-stack e-commerce solution with product management, shopping cart, and Stripe payment integration.  
+**Tech Stack:** React/Next.js, ASP.NET Core, SQL Server, Stripe API
+
 🔹 **[Garage API](https://github.com/EliezerKibet/Garage-API/blob/main/README.md)**  
 A comprehensive RESTful API for automotive service centers with JWT authentication and Swagger documentation.  
 **Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, JWT 
