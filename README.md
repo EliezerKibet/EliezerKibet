@@ -4,8 +4,6 @@
 Passionate about **building production-ready web applications** and **AI-driven solutions**.  
 Skilled in **JavaScript, C#, .NET Core, React/Next.js, and SQL**.  
 
-Personal Website: https://eliezerkibet.github.io/
-
 ## 🚀 Tech Stack  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -61,7 +59,6 @@ A robust RESTful API for automotive service centers with enterprise-grade securi
 
 **Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, JWT, Swagger
 
-
 ---
 
 ## 🎬 Video Demos & Tutorials
@@ -70,7 +67,6 @@ A robust RESTful API for automotive service centers with enterprise-grade securi
 
 🎥 **[Chocolate Ecommerce Platform - Complete Demo](https://youtu.be/91_lUz7Gw2E)**
 *8-minute comprehensive walkthrough showing all features from user experience to admin management*
-
 
 **Subscribe for more full-stack development content!** 📢
 
@@ -87,13 +83,6 @@ A robust RESTful API for automotive service centers with enterprise-grade securi
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliezerKibet)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-kibet-80217a301/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kibeet_qc/)  
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://eliezerkibet.github.io/)
 
-📫 **Email:** [elieserkibet@gmail.com](mailto:elieserkibet@gmail.com)  
-
-
-
-
-
-
-
-
+📫 **Email:** [elieserkibet@gmail.com](mailto:elieserkibet@gmail.com)
