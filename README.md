@@ -1,8 +1,10 @@
 # Hi, I'm Eliezer Kibet 👋  
 
-💻 **Computer Science Student | Full-Stack Developer | AI Enthusiast**  
+💻 **Computer Science | Full-Stack Developer | AI Enthusiast**  
 Passionate about **building production-ready web applications** and **AI-driven solutions**.  
 Skilled in **JavaScript, C#, .NET Core, React/Next.js, and SQL**.  
+
+Personal Website: https://eliezerkibet.github.io/
 
 ## 🚀 Tech Stack  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
