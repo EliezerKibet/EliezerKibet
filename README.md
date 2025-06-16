@@ -21,6 +21,8 @@ Skilled in **JavaScript, C#, .NET Core, React/Next.js, and SQL**.
 ### 🍫 **[Chocolate Ecommerce Platform](https://github.com/EliezerKibet/ECommerce-Platform)** ⭐ **COMPLETE**
 A **production-ready** full-stack e-commerce solution specializing in premium chocolate products with comprehensive features.
 
+Backend and Frontend files now added
+
 **🎬 [Watch Live Demo](https://youtu.be/91_lUz7Gw2E)** | **[View Repository](https://github.com/EliezerKibet/ECommerce-Platform)**
 
 **Key Features:**
