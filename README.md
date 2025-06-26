@@ -18,6 +18,24 @@ Skilled in **JavaScript, C#, .NET Core, React/Next.js, and SQL**.
 
 ## 👨‍💻 Featured Projects  
 
+### 🎫 **[Event Ticketing Platform](https://github.com/EliezerKibet/EventTicketingPlatform)** ⭐ **LATEST** ![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen)
+A **enterprise-grade** event ticketing system with **comprehensive testing coverage** and production-ready architecture.
+
+**🎬 [Watch Demo](https://youtu.be/dkmEjyYLQR0)** | **[View Repository](https://github.com/EliezerKibet/EventTicketingPlatform)**
+
+**🔥 Key Highlights:**
+- 🧪 **24 comprehensive tests** covering all business logic
+- 🎟️ Real-time ticket booking with capacity management
+- 🔐 JWT authentication with role-based access control
+- 💳 Payment processing with refund policies & promo codes
+- 📱 QR code generation for digital tickets
+- 📊 Analytics dashboard with revenue tracking
+- ⚡ Automated CI/CD with GitHub Actions
+
+**Tech Stack:** .NET 9 Web API, React, SQL Server, xUnit, JWT, Entity Framework
+
+---
+
 ### 🍫 **[Chocolate Ecommerce Platform](https://github.com/EliezerKibet/ECommerce-Platform)** ⭐ **COMPLETE**
 A **production-ready** full-stack e-commerce solution specializing in premium chocolate products with comprehensive features.
 
@@ -67,10 +85,23 @@ A robust RESTful API for automotive service centers with enterprise-grade securi
 
 ### 📺 **My YouTube Channel - Full-Stack Development**
 
+🎥 **[Event Ticketing Platform - Full Demo](https://youtu.be/dkmEjyYLQR0)** ⭐
+*Complete walkthrough showcasing testing methodology, real-time booking, and enterprise features*
+
 🎥 **[Chocolate Ecommerce Platform - Complete Demo](https://youtu.be/91_lUz7Gw2E)**
 *8-minute comprehensive walkthrough showing all features from user experience to admin management*
 
 **Subscribe for more full-stack development content!** 📢
+
+---
+
+## 🏆 What Sets Me Apart
+
+- 🧪 **Testing Excellence**: 24 comprehensive tests demonstrating enterprise-grade quality assurance
+- 🏗️ **Production-Ready Code**: All projects built with scalability and maintainability in mind
+- 💼 **Business Logic Focus**: Deep understanding of real-world application requirements
+- 🔄 **CI/CD Integration**: Automated testing and deployment workflows
+- 📊 **Analytics-Driven**: Building applications with data insights and reporting
 
 ---
 
