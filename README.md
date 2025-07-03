@@ -13,12 +13,18 @@ Skilled in **JavaScript, C#, .NET Core, React/Next.js, and SQL**.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ---
 
 ## 👨‍💻 Featured Projects  
 
 ### 🎫 **[Event Ticketing Platform](https://github.com/EliezerKibet/EventTicketingPlatform)** ⭐ **LATEST** ![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen)
+![.NET CI](https://github.com/EliezerKibet/EventTicketingPlatform/workflows/.NET%20CI/badge.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Code Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
 A **enterprise-grade** event ticketing system with **comprehensive testing coverage** and production-ready architecture.
 
 **🎬 [Watch Demo](https://youtu.be/dkmEjyYLQR0)** | **[View Repository](https://github.com/EliezerKibet/EventTicketingPlatform)**
@@ -97,12 +103,13 @@ A robust RESTful API for automotive service centers with enterprise-grade securi
 
 ## 🏆 What Sets Me Apart
 
-- 🧪 **Testing Excellence**: 24 comprehensive tests demonstrating enterprise-grade quality assurance
-- 🏗️ **Production-Ready Code**: All projects built with scalability and maintainability in mind
-- 💼 **Business Logic Focus**: Deep understanding of real-world application requirements
-- 🔄 **CI/CD Integration**: Automated testing and deployment workflows
-- 📊 **Analytics-Driven**: Building applications with data insights and reporting
-
+- 🧪 **Enterprise Testing**: 24 comprehensive automated tests with CI/CD integration
+- ⚡ **DevOps Practices**: GitHub Actions pipelines for automated testing and deployment
+- 🏗️ **Scalable Architecture**: Production-ready applications handling real-world business logic
+- 💳 **Payment Integration**: Live Stripe implementation with real transaction processing
+- 🔒 **Security First**: JWT authentication, role-based access, and data validation
+- 📊 **Business Impact**: Revenue tracking, analytics dashboards, and performance monitoring
+- 🌏 **Market Ready**: Built for Southeast Asian e-commerce and event management markets
 ---
 
 ## 📖 Currently Learning  
