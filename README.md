@@ -22,7 +22,6 @@ Skilled in **JavaScript, C#, .NET Core, React/Next.js, and SQL**.
 ## 👨‍💻 Featured Projects  
 
 ### 🎫 **[Event Ticketing Platform](https://github.com/EliezerKibet/EventTicketingPlatform)** ⭐ **LATEST** ![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen)
-![.NET CI](https://github.com/EliezerKibet/EventTicketingPlatform/workflows/.NET%20CI/badge.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Code Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
 A **enterprise-grade** event ticketing system with **comprehensive testing coverage** and production-ready architecture.
