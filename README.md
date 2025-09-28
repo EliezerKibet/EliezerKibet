@@ -2,26 +2,61 @@
 
 💻 **Computer Science | Full-Stack Developer | AI Enthusiast**  
 Passionate about **building production-ready web applications** and **AI-driven solutions**.  
-Skilled in **JavaScript, C#, .NET Core, React/Next.js, and SQL**.  
+Skilled in **JavaScript, TypeScript, C#, .NET Core, React/Next.js, Vite, Tailwind CSS, Entity Framework, and SQL**.  
 
 ## 🚀 Tech Stack  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend & UI
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Testing & Quality
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+### Tools & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
----
 
 ## 👨‍💻 Featured Projects  
 
-### 🎫 **[Event Ticketing Platform](https://github.com/EliezerKibet/EventTicketingPlatform)** ⭐ **LATEST** ![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen)
+### 🏢 **[Axis Mundi Technologies](https://github.com/EliezerKibet/axis-mundi-forge)** ⭐ **LATEST** ![Performance](https://img.shields.io/badge/lighthouse-95%2B-brightgreen)
+A **professional technology company website** showcasing advanced engineering solutions with modern web development practices.
+
+**🌐 [Live Demo](https://axismunditech.com)** | **[View Repository](https://github.com/EliezerKibet/axis-mundi-forge)**
+
+**🔥 Key Highlights:**
+- 🎨 **Custom Design System** with Tailwind CSS and shadcn/ui components
+- ⚡ **95+ Lighthouse Score** with optimized performance and SEO
+- 📱 **Mobile-First Design** ensuring seamless cross-device experience
+- 🚀 **Production Deployment** with automated CI/CD pipeline on Render.com
+- 🔒 **Custom Domain** with SSL certificates and professional infrastructure
+- 🎯 **Modern UI/UX** featuring smooth animations and professional branding
+- 📊 **Core Web Vitals** optimized for exceptional user experience
+
+**Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Render.com
+
+---
+
+### 🎫 **[Event Ticketing Platform](https://github.com/EliezerKibet/EventTicketingPlatform)**  ![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Code Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
 A **enterprise-grade** event ticketing system with **comprehensive testing coverage** and production-ready architecture.
