@@ -1,10 +1,10 @@
-# Hi, I'm Eliezer Kibet 👋  
+# Hi, I'm Eliezer Kibet
 
-💻 **Computer Science | Full-Stack Developer | AI Enthusiast**  
+**Computer Science | Full-Stack Developer | AI Enthusiast**  
 Passionate about **building production-ready web applications** and **AI-driven solutions**.  
 Skilled in **JavaScript, TypeScript, C#, .NET Core, React/Next.js, Vite, Tailwind CSS, Entity Framework, and SQL**.  
 
-## 🚀 Tech Stack  
+## Tech Stack
 
 ### Frontend & UI
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,127 +36,160 @@ Skilled in **JavaScript, TypeScript, C#, .NET Core, React/Next.js, Vite, Tailwin
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## 👨‍💻 Featured Projects  
+## Featured Projects
 
-### 🏢 **[Axis Mundi Technologies](https://github.com/EliezerKibet/axis-mundi-forge)** ⭐ **LATEST** ![Performance](https://img.shields.io/badge/lighthouse-95%2B-brightgreen)
-A **professional technology company website** showcasing advanced engineering solutions with modern web development practices.
+### REDFACE Cybersecurity Platform *(Latest)*
+A **professional cybersecurity platform** delivering advanced threat detection, vulnerability assessment, and security monitoring capabilities for modern enterprises.
 
-**🌐 [Live Demo](https://axismunditech.com)** | **[View Repository](https://github.com/EliezerKibet/axis-mundi-forge)**
+**Key Highlights:**
+- Threat detection and real-time security monitoring
+- Vulnerability scanning and risk assessment
+- Security analytics dashboard with incident reporting
+- Role-based access control for security teams
+- Automated alerting and response workflows
 
-**🔥 Key Highlights:**
-- 🎨 **Custom Design System** with Tailwind CSS and shadcn/ui components
-- ⚡ **95+ Lighthouse Score** with optimized performance and SEO
-- 📱 **Mobile-First Design** ensuring seamless cross-device experience
-- 🚀 **Production Deployment** with automated CI/CD pipeline on Render.com
-- 🔒 **Custom Domain** with SSL certificates and professional infrastructure
-- 🎯 **Modern UI/UX** featuring smooth animations and professional branding
-- 📊 **Core Web Vitals** optimized for exceptional user experience
-
-**Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Render.com
+**Tech Stack:** React, TypeScript, ASP.NET Core, SQL Server, Tailwind CSS
 
 ---
 
-### 🎫 **[Event Ticketing Platform](https://github.com/EliezerKibet/EventTicketingPlatform)**  ![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Code Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
-A **enterprise-grade** event ticketing system with **comprehensive testing coverage** and production-ready architecture.
+### FlowLenz Ticket Management System
+A **modern ticket management platform** built for efficient workflow tracking, team collaboration, and seamless customer support operations.
 
-**🎬 [Watch Demo](https://youtu.be/dkmEjyYLQR0)** | **[View Repository](https://github.com/EliezerKibet/EventTicketingPlatform)**
+**Key Highlights:**
+- Intuitive ticket creation and lifecycle management
+- Team assignment and collaboration tools
+- Real-time notifications and status updates
+- Reporting dashboard with performance metrics
+- Role-based access for agents and administrators
+- Automated ticket routing and prioritization
 
-**🔥 Key Highlights:**
-- 🧪 **24 comprehensive tests** covering all business logic
-- 🎟️ Real-time ticket booking with capacity management
-- 🔐 JWT authentication with role-based access control
-- 💳 Payment processing with refund policies & promo codes
-- 📱 QR code generation for digital tickets
-- 📊 Analytics dashboard with revenue tracking
-- ⚡ Automated CI/CD with GitHub Actions
-
-**Tech Stack:** .NET 9 Web API, React, SQL Server, xUnit, JWT, Entity Framework
+**Tech Stack:** React, TypeScript, ASP.NET Core, Entity Framework, SQL Server
 
 ---
 
-### 🍫 **[Chocolate Ecommerce Platform](https://github.com/EliezerKibet/ECommerce-Platform)** ⭐ **COMPLETE**
-A **production-ready** full-stack e-commerce solution specializing in premium chocolate products with comprehensive features.
+### Fintech Dashboard Platform
+A **comprehensive financial management dashboard** for tracking investments, managing expenses, and planning financial goals with real-time market data integration.
 
-Backend and Frontend files now added
+**Key Highlights:**
+- **Real-time investment tracking** with Yahoo Finance market data
+- Portfolio performance monitoring and analytics
+- Budget creation and expense management
+- Financial goal planning with personalized recommendations
+- Email notifications and smart alerts
+- Secure authentication with user management
 
-**🎬 [Watch Live Demo](https://youtu.be/91_lUz7Gw2E)** | **[View Repository](https://github.com/EliezerKibet/ECommerce-Platform)**
+**Tech Stack:** ASP.NET Core 8, Next.js, TypeScript, Entity Framework Core, SQL Server, Tailwind CSS
 
-**Key Features:**
-- 🔐 Complete user authentication & authorization system
-- 🛍️ Advanced product catalog with search & filtering
-- 🛒 Smart shopping cart with persistent sessions
-- 💳 **Secure Stripe payment integration** (fully functional)
-- 📊 Comprehensive admin dashboard with analytics
-- 📱 Fully responsive mobile-first design
+---
+
+### [Modern E-Commerce Platform](https://github.com/EliezerKibet/ECommerce-Platform)
+A **production-ready** full-stack e-commerce solution specializing in premium chocolate products.
+
+**[Watch Live Demo](https://youtu.be/91_lUz7Gw2E)** | **[View Repository](https://github.com/EliezerKibet/ECommerce-Platform)**
+
+**Key Highlights:**
+- Complete user authentication & authorization system
+- Advanced product catalog with search & filtering
+- Smart shopping cart with persistent sessions
+- **Secure Stripe payment integration** (fully functional)
+- Comprehensive admin dashboard with analytics
+- Fully responsive mobile-first design
 
 **Tech Stack:** Next.js 14, TypeScript, ASP.NET Core 8, Entity Framework, SQL Server, Stripe API, Tailwind CSS
 
 ---
 
-### 🚗 **[AI-Powered Garage Management System](https://github.com/EliezerKibet/AI_based_garage)**  
-A comprehensive system for managing automotive repairs with integrated AI chatbot for intelligent customer support.
+### [Modern Event Ticketing Platform](https://github.com/EliezerKibet/EventTicketingPlatform) ![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Code Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
+An **enterprise-grade** event ticketing system with **comprehensive testing coverage** and production-ready architecture.
 
-**Key Features:**
-- 🤖 AI chatbot for customer inquiries and support
-- 📋 Complete service management workflow
-- 👥 Multi-role user management (Admin, Mechanic, Customer)
-- 📊 Real-time reporting and analytics
+**[Watch Demo](https://youtu.be/dkmEjyYLQR0)** | **[View Repository](https://github.com/EliezerKibet/EventTicketingPlatform)**
+
+**Key Highlights:**
+- **24 comprehensive tests** covering all business logic
+- Real-time ticket booking with capacity management
+- JWT authentication with role-based access control
+- Payment processing with refund policies & promo codes
+- QR code generation for digital tickets
+- Analytics dashboard with revenue tracking
+- Automated CI/CD with GitHub Actions
+
+**Tech Stack:** .NET 9 Web API, React, SQL Server, xUnit, JWT, Entity Framework
+
+---
+
+### [AI Auto Garage Management System](https://github.com/EliezerKibet/AI_based_garage)
+A comprehensive system for managing automotive repairs with an integrated AI chatbot for intelligent customer support.
+
+**Key Highlights:**
+- AI chatbot for customer inquiries and support
+- Complete service management workflow
+- Multi-role user management (Admin, Mechanic, Customer)
+- Real-time reporting and analytics
 
 **Tech Stack:** C#, ASP.NET Core, SQL Server, AI/ML Integration
 
 ---
 
-### 🔧 **[Garage REST API](https://github.com/EliezerKibet/Garage-API)**  
-A robust RESTful API for automotive service centers with enterprise-grade security and documentation.
+### PropertiesOnline Listing Platform
+A **full-stack real estate listing platform** enabling property search, listing management, and seamless buyer-seller connections.
 
-**Key Features:**
-- 🔒 JWT authentication & role-based authorization
-- 📚 Comprehensive Swagger documentation
-- ⚡ Optimized database queries with Entity Framework
-- 🛡️ Input validation and error handling
+**Key Highlights:**
+- Property listing creation and management
+- Advanced property search and filtering
+- Secure authentication with ASP.NET Core Identity
+- Comprehensive Swagger API documentation
+- Optimized database queries with Entity Framework
 
 **Tech Stack:** ASP.NET Core, Entity Framework, SQL Server, JWT, Swagger
 
 ---
 
-## 🎬 Video Demos & Tutorials
+### Embassy of Kenya Website
+A **professional government web presence** for the Embassy of Kenya, providing citizens and visitors with easy access to consular services, visa information, and official communications.
 
-### 📺 **My YouTube Channel - Full-Stack Development**
+**Key Highlights:**
+- Consular services and visa application information
+- Contact and appointment booking functionality
+- Accessible and mobile-first responsive design
+- Secure and standards-compliant web infrastructure
+- Official branding and government-grade UI/UX
 
-🎥 **[Event Ticketing Platform - Full Demo](https://youtu.be/dkmEjyYLQR0)** ⭐
+**Tech Stack:** React, TypeScript, Tailwind CSS, Vite
+
+---
+
+## Video Demos
+
+**[Event Ticketing Platform - Full Demo](https://youtu.be/dkmEjyYLQR0)**  
 *Complete walkthrough showcasing testing methodology, real-time booking, and enterprise features*
 
-🎥 **[Chocolate Ecommerce Platform - Complete Demo](https://youtu.be/91_lUz7Gw2E)**
-*8-minute comprehensive walkthrough showing all features from user experience to admin management*
-
-**Subscribe for more full-stack development content!** 📢
+**[Modern E-Commerce Platform - Complete Demo](https://youtu.be/91_lUz7Gw2E)**  
+*Comprehensive walkthrough showing all features from user experience to admin management*
 
 ---
 
-## 🏆 What Sets Me Apart
+## What Sets Me Apart
 
-- 🧪 **Enterprise Testing**: 24 comprehensive automated tests with CI/CD integration
-- ⚡ **DevOps Practices**: GitHub Actions pipelines for automated testing and deployment
-- 🏗️ **Scalable Architecture**: Production-ready applications handling real-world business logic
-- 💳 **Payment Integration**: Live Stripe implementation with real transaction processing
-- 🔒 **Security First**: JWT authentication, role-based access, and data validation
-- 📊 **Business Impact**: Revenue tracking, analytics dashboards, and performance monitoring
-- 🌏 **Market Ready**: Built for Southeast Asian e-commerce and event management markets
+- **Enterprise Testing**: 24 comprehensive automated tests with CI/CD integration
+- **DevOps Practices**: GitHub Actions pipelines for automated testing and deployment
+- **Scalable Architecture**: Production-ready applications handling real-world business logic
+- **Payment Integration**: Live Stripe implementation with real transaction processing
+- **Security First**: JWT authentication, role-based access, and data validation
+- **Business Impact**: Revenue tracking, analytics dashboards, and performance monitoring
+
 ---
 
-## 📖 Currently Learning  
-**Exploring:** Machine Learning, DevOps, and Artificial Intelligence 
+## Currently Learning
+**Exploring:** Machine Learning, DevOps, and Artificial Intelligence  
 **Reading:** "Deep Learning with Python" by François Chollet  
 
 ---
 
-## 🔗 Connect With Me  
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliezerKibet)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-kibet-80217a301/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kibeet_qc/)  
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://eliezerkibet.github.io/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://eliezerkibet.dev)
 
-📫 **Email:** [elieserkibet@gmail.com](mailto:elieserkibet@gmail.com)
+**Email:** [elieserkibet@gmail.com](mailto:elieserkibet@gmail.com)
